@@ -5,11 +5,12 @@ Date Made: 03/02/2026
 Description: This program averages multiple PPM images to create a single clear image.
 
 Division of Labor:
- Gabrielle Dement:
+
+--- Gabrielle Dement: ---
 - Made Stacker.h
 - Wrote main.cpp for user input and filename generation
 
-  AJ Hopkins:
+--- AJ Hopkins: ---
 - Wrote Stacker.cpp (Stacker class implementation)
 
 How to Run:
