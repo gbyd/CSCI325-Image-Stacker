@@ -20,7 +20,7 @@
  * @brief Removes noise from images
  *
  */
-Class Stacker {
+class Stacker {
  private:
 
   //A struct that contains 3 ints that represent a single pixel's color data.
@@ -42,8 +42,8 @@ Class Stacker {
 /**
  * stacker constructor - it initializes image metadeta to default values
  *
- * @pre 
- * @post 
+ * @pre n/a 
+ * @post private members are initialized to empty/zero
  * 
  */
   Stacker();

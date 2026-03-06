@@ -4,7 +4,7 @@
  * @ date 2026-03-03
  * @brief Implementation of the Stacker class
  *
- * Reads multiple image files, accumulates their RGP values,
+ * Reads multiple image files, accumulates their RGB values,
  * averages them together, and writes the result to a new PPM file
  */
 
